@@ -25,5 +25,6 @@ const app = Vue.createApp({
   }
 })
 asdasdads
+asdad
 
 app.mount('#app')
